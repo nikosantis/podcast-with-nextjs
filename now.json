@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "Podcasts Next.js",
+  "builds": [
+    {
+      "src": "package.json",
+      "use": "@now/next"
+    }
+  ]
+}
